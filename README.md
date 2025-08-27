@@ -37,7 +37,7 @@ I'm a **Software Engineer** with a passion for building innovative solutions and
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jonathan-stekliar-9493491b4/))  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/yourusername)  
 ✉️ Email: **yonatan2224@gmail.com**  
 📍 Based in **Tel Aviv, Israel**
